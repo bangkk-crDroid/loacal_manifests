@@ -1,2 +1,2 @@
-# loacal_manifests
+# local_manifests
 My local manifest
